@@ -2,22 +2,8 @@
 layout: homepage
 ---
 
-## About Me
+# About
 
-I am a Ph.D. student at ...
+I am a postgraduate student in [European Health Economics](https://eu-hem.eu/) at Bologna University and Oslo University, fully funded by [Fundación Ramón Areces](https://www.fundacionareces.es/fundacionareces/en/). Previously, I worked as a health economicst at the [Germans Trias i Pujol Hospital](https://www.hospitalgermanstrias.cat/en) in Barcelona and as an intern at the [WHO/PAHO](https://www.paho.org/en). I am also a graduate in [Philosophy, Politics & Economics](https://www.upf.edu/en/web/graus/grau-filosofia-politica-i-economia) at Universitat Pompeu Fabra, Universidad Carlos III de Madrid et al.
 
-## Research Interests
-
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
-
-## News
-
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
-
-{% include_relative _includes/publications.md %}
-
-{% include_relative _includes/services.md %}
+My research aims to answer questions regarding the value of interventions relative to public health --how can we best treat heart failure patients? what is the most cost-effective way to treat COVID-19 sequelae?-- through quantitative measures related to health economics. In doing so, I employ various data-driven methodologies and leverage extensive datasets to analyze and extract valuable insights.
