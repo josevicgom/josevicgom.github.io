@@ -8,4 +8,4 @@ I am a postgraduate student in [Health Economics](https://eu-hem.eu/) at the Uni
 
 My research aims to answer questions regarding the value of interventions relative to public health --how can we reduce heart failure hospitalisations? What is the best way to treat COVID-19 sequelae?-- through quantitative measures related to health economics. In doing so, I employ various data-driven methodologies and leverage extensive datasets to analyze and extract valuable insights. In other words, I use data to figure out if certain actions or programs are worth it for public health.
 
-You can download my CV [here](./assets/files/cv2023.pdf).
+You can download my CV [here](./assets/files/cv_vicentegomez.pdf).
