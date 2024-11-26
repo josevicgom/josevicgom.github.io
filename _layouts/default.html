@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="../css/social-circles.min.css">
+    <!-- <link rel="stylesheet" href="../css/academicons.min.css"/>-->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+
+
+  {% seo %}
+    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <![endif]-->
+  {% include analytics.html %}
+  </head>
+
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1><a href="https://josevicgom.github.io/"><b>José Ángel Vicente Gómez</b></a></h1>
+
+        <p></p>
+        <p>
+          Research assistant<br />
+          University of Oxford<br />
+          <a href="mailto:joseangel.vicente@upf.edu">joseangel.vicente@upf.edu</a><br />
+        </p>
+        <p></p>
+        <p>
+        <a class="icon-github ai-2x" href="https://github.com/josevicgom" target="_blank" style="color: #3d3d3d;"></a>&nbsp;&nbsp;&nbsp;
+        <a class="icon-twitter ai-2x" href="http://twitter.com/josevicgom" target="_blank" style="color: #3d3d3d;"></a>&nbsp;&nbsp;&nbsp;
+        <a class="icon-linkedin ai-2x" href="http://linkedin.com/in/josevicgom/" target="_blank" style="color: #3d3d3d;"></a>&nbsp;&nbsp;&nbsp;
+        </p>
+        <p></p>
+        <p>
+          <a href="https://josevicgom.github.io/index.html" style="font-size: 115%"><b>About</b></a><br />
+          <a href="https://josevicgom.github.io/research.html" style="font-size: 115%"><b>Research</b></a><br />
+          <a href="https://josevicgom.github.io/teaching.html" style="font-size: 115%"><b>Teaching</b></a><br />
+        </p>
+      </header>
+      <section>
+
+      {{ content }}
+
+      </section>
+      <footer>
+      </footer>
+    </div>
+    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+  </body>
+</html>
