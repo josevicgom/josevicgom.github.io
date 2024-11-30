@@ -1,4 +1,14 @@
-theme: jekyll-theme-minimal
+# Basic Information 
 title: José Ángel Vicente Gómez
-logo: files/photo.png
+position: MPhil Student
+affiliation: University of Oxford | CRES-UPF
+email: joseangel.vicgom@gmail.com
+
+# Search Engine Optimization (SEO)
+# The following information is used to improve the website traffic from search engines, e.g., Google.
+keywords: José Ángel Vicente Gómez, health economics, public health, public health data
+description: José Ángel Vicente Gómez is a health economist working in the field of public health, physician behaviour and labour economics.
+
+
+theme: jekyll-theme-minimal
 show_downloads: "true"
