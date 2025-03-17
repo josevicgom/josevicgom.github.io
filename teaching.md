@@ -7,7 +7,7 @@ layout: default
 ### Graduate
 
 - **Econometrics** (Fall 2024).
-  - [Master in Health Economics, Management and Policy](https://corsi.unibo.it/2cycle/HealthEconomicsManagement), University of Bologna.
+  - [PhD in Management](https://phd.unibo.it/management/en) and [Master in Economics and Public Policy](https://corsi.unibo.it/2cycle/EconomicsPolicy), University of Bologna.
   - [Syllabus](https://www.unibo.it/en/study/phd-professional-masters-specialisation-schools-and-other-programmes/course-unit-catalogue/course-unit/2024/481177).
 
 - **Fundamentals of Econometrics** (Fall 2024).
