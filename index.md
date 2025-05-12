@@ -10,7 +10,7 @@ layout: default
 
   @media (max-width: 768px) {
     .responsive-img {
-      width: 100%;
+      width: 80%;
     }
   }
 </style>
