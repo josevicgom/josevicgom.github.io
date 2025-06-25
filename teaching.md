@@ -16,5 +16,9 @@ layout: default
 
 ### Undergraduate
 
+- **Transdisciplinary Approaches to Inequality** (Spring 2025).
+  - [Undergraduate studies], Sciences Po Paris.
+  - [Syllabus](https://syllabus.sciencespo.fr/cours/202420/255200.html).
+
 - **Ethics** (Spring 2023).
   - [Bachelor in Philosophy, Politics & Economics](https://www.upf.edu/en/web/graus/grau-filosofia-politica-i-economia), Autonomous University of Barcelona / Universitat Pompeu Fabra.
